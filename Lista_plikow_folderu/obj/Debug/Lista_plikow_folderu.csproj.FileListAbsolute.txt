@@ -1,0 +1,6 @@
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\bin\Debug\Lista_plikow_folderu.exe.config
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\bin\Debug\Lista_plikow_folderu.exe
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\bin\Debug\Lista_plikow_folderu.pdb
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\obj\Debug\Lista_plikow_folderu.csprojAssemblyReference.cache
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\obj\Debug\Lista_plikow_folderu.exe
+C:\Users\m_rac\source\repos\Lista_plikow_folderu\Lista_plikow_folderu\obj\Debug\Lista_plikow_folderu.pdb
